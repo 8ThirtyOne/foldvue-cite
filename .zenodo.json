@@ -1,0 +1,10 @@
+{
+  "title": "FoldVue: Protein structure and the evidence about it, in one view",
+  "upload_type": "software",
+  "description": "FoldVue (https://foldvue.com) shows any human protein in 3D next to the evidence about it: genetic variants placed on the structure (ClinVar, gnomAD), drugs and binding pockets (ChEMBL, Open Targets), clinical trials, disease links and the latest papers, with every figure linked to its source. This record holds FoldVue's citation metadata; the web application is at https://foldvue.com.",
+  "creators": [{ "name": "Moon, Paul", "affiliation": "8ThirtyOne" }],
+  "keywords": ["protein structure", "structural biology", "AlphaFold", "variant interpretation", "drug discovery", "visualization"],
+  "related_identifiers": [{ "identifier": "https://foldvue.com", "relation": "isDocumentedBy", "resource_type": "software" }],
+  "license": "other-closed",
+  "access_right": "open"
+}

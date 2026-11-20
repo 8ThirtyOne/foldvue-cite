@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use FoldVue, please cite it as below."
+title: "FoldVue: Protein structure and the evidence about it, in one view"
+type: software
+authors:
+  - family-names: Moon
+    given-names: Paul
+    affiliation: 8ThirtyOne
+url: "https://foldvue.com"
+version: "1.0"
+date-released: "2026-11-19"
