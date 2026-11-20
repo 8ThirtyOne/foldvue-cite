@@ -1,5 +1,7 @@
 # FoldVue
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24401211.svg)](https://doi.org/10.5281/zenodo.24401211)
+
 **Protein structure and the evidence about it, in one view.**
 
 FoldVue shows any human protein in 3D next to the evidence about it: genetic variants placed on the structure (ClinVar, gnomAD), drugs and their binding pockets (ChEMBL, Open Targets), clinical trials, disease links and the latest papers. Experimental (PDB) and AlphaFold structures, with every figure linked to its source. Free to explore in a browser.
@@ -13,4 +15,4 @@ This repository holds FoldVue's citation metadata (`CITATION.cff`) so that each 
 
 ## Cite
 
-Moon, P. (2026). *FoldVue: Protein structure and the evidence about it, in one view* (Version 1.0) [Web application]. 8ThirtyOne. https://foldvue.com
+Moon, P. (2026). *FoldVue: Protein structure and the evidence about it, in one view* (Version 1.0) [Web application]. 8ThirtyOne. https://doi.org/10.5281/zenodo.24401211
